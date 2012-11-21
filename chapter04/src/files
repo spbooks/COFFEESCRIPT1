@@ -1,0 +1,12 @@
+gfx.coffee
+keys.coffee
+entities/_Entity.coffee
+entities/Player.coffee
+entities/Ninja.coffee
+blocks/_Block.coffee
+blocks/Dirt.coffee
+blocks/Rock.coffee
+blocks/Treasure.coffee
+levels/Level.coffee
+levels/levels.coffee
+game.coffee

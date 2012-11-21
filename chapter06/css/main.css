@@ -1,0 +1,23 @@
+body {
+   background-color: #333;
+}
+
+#container {
+  margin: 50px auto;
+  width: 580px;
+}
+
+#game {
+  background:
+    -webkit-radial-gradient(rgba(0, 0, 0, 0.0) 25%,  rgba(0, 0, 0, 0.7)), url(../resources/bg.png);
+  background:
+    -moz-radial-gradient(rgba(0, 0, 0, 0.0) 25%,  rgba(0, 0, 0, 0.7)), url(../resources/bg.png);
+  background:
+    -ms-radial-gradient(rgba(0, 0, 0, 0.0) 25%,  rgba(0, 0, 0, 0.7)), url(../resources/bg.png);
+  background:
+    -o-radial-gradient(rgba(0, 0, 0, 0.0) 25%,  rgba(0, 0, 0, 0.7)), url(../resources/bg.png);
+  display: block;
+  border:1px solid #222;
+  box-shadow: 0 0 30px #000
+}
+

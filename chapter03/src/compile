@@ -1,0 +1,8 @@
+#!/bin/sh
+
+xargs -t coffee -j ../script/main.js -w -c << EOF
+gfx.coffee
+keys.coffee
+player.coffee
+game.coffee
+EOF

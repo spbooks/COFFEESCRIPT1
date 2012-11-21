@@ -1,0 +1,17 @@
+body {
+   background-color: #333;
+}
+
+#container {
+  margin: 50px auto;
+  width: 580px;
+}
+
+#game {
+  background: url(../resources/bg.png);
+  
+  display: block;
+  border:1px solid #222;
+  box-shadow: 0 0 30px #000
+}
+
